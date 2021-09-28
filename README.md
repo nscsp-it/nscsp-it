@@ -1,4 +1,4 @@
-
+<img src="218839436_6123424317675328_2359294638531704251_n.jpg" alt="Hero image">
 
 - 👋 Hi, I’m @nscsp-it
 - 👀 I’m interested in sharing knowledge, collaborating and learning
